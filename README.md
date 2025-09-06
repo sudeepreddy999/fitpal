@@ -154,7 +154,7 @@ Ensure all steps are followed carefully to successfully run the Voyager project 
 
 
 ## Authors
-- [**Avala Chaitanya Lakshmi Prasad Yadav**](https://github.com/avalachaitanya2004)
+- [**Avala Chaitanya Lakshmi Prakash Yadav**](https://github.com/avalachaitanya2004)
 - [**Bezawada Sri Sai Anurag**](https://github.com/Anurag154504)
 - [**Dharavath Madhu**](https://github.com/Madhudharavath)
 - [**Gavireddy Diimppul**](https://github.com/diimppulg)
